@@ -1,5 +1,5 @@
 # LEMP-Stack-Implementation-AWS
-This project demonstrates how to iplement a LEMP stack on AWS.
+This project demonstrates how to implement a LEMP stack on AWS.
 
 LEMP Stack is one of the various technology stacks that exist. A technology stack is a set of frameworks and tools used to develop a software product. This set of frameworks and tools are very specifically chosen to work together in creating a well-functioning software. They are acronymns for individual technologies used together for a specific technology product. LEMP (Linux, Nginx, MySQL, PHP or Python, or Perl) is one of them. Others include; LAMP (Linux, Apache, MySQL, PHP or Python, or Perl), MERN (MongoDB, ExpressJS, ReactJS, NodeJS), MEAN (MongoDB, ExpressJS, AngularJS, NodeJS)
 
