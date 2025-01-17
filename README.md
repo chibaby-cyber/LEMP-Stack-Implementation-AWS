@@ -15,7 +15,7 @@ To perform this project, I must carry out the following steps
 ## Create a EC2 Instance
 In order to complete this project I will need an AWS account and a virtual server with Ubuntu Server OS.
 
-AWS is the biggest Cloud Service Provider and it offers a free tier account that we are going to leverage for our projects.
+AWS is the biggest Cloud Service Provider and it offers a free tier account that we are going to leverage for this project.
 
 I followed the instructions below to create your EC2 instance.
 
